@@ -1,1 +1,1 @@
-# azure_template
+# azure_template folder structure
